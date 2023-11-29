@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ovms:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-29T14:04:42.3900796+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 676ef28e0b02deca70a87e7f9b05ee049020b7f6fd015f4c7cc520d1a838b14a
+    name: ovms
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/skansalintel/ovms-test/main/ovms.tgz
+    version: 0.1.0
+generated: "2023-11-29T14:04:42.3879449+05:30"
